@@ -2,7 +2,7 @@
 Hartman, et al. A microbiome-directed therapeutic food for children recovering from severe acute malnutrition" analytical code repository.
 Science Translational Medicine 2024, DOI: [10.1126/scitranslmed.adn2366](https://www.science.org/doi/10.1126/scitranslmed.adn2366) 
 
-Steven Hartman performed the following analyses and generated associated code files:
+Dr. Hartman performed the following analyses and generated associated code files:
 - Association of MAGs with study covariates from single timepoints: MAG_area_sex_arm_associations_singleTimepoint.R
 - Linear mixed-effects models to find MAGs associations treatment and WLZ with full timepoint set: MAG_associations_w_WLZ_and_treatment.R
 - Plasma protein associations with WLZ with linear regression and GSEA of treatment arm enrichment: SOMA_WLZ_assocations_treatmentArmEnrichment.R
